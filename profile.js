@@ -77,3 +77,21 @@ export const projects =[
         imagen: "portfolio6.jpeg"
     }
 ]
+
+export const posts = [
+    {
+        title: "React",
+        content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et natus harum eum laudantium architecto iusto, tempore cum veritatis asperiores quibusdam expedita distinctio.",
+        imageURL:"https://www.syntonize.com/wp-content/uploads/2021/02/React-Syntonize.png"
+    },
+    {
+        title: "Angular",
+        content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et natus harum eum laudantium architecto iusto, tempore cum veritatis asperiores quibusdam expedita distinctio.",
+        imageURL:"https://miro.medium.com/max/1838/1*P7x-_0XfQz6CVmMY_QAv0w.png"
+    },
+    {
+        title: "Vue",
+        content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et natus harum eum laudantium architecto iusto, tempore cum veritatis asperiores quibusdam expedita distinctio.",
+        imageURL:"https://miro.medium.com/max/5145/1*oZqGznbYXJfBlvGp5gQlYQ.jpeg"
+    }
+]
