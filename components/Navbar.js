@@ -1,4 +1,4 @@
-import Link from 'next/link'
+import Link from 'next/link';
 
 const Navbar = () => (
 <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -18,7 +18,7 @@ const Navbar = () => (
         </Link>
       </li>
       <li className="nav-item">
-          <Link  href="github">
+          <Link  href="/github">
           <a className="nav-link">Github</a>
           </Link>
         
